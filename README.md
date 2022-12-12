@@ -1,4 +1,7 @@
 # cloth-structure-detection
+Created by:- Jayant Narayan
+Thapar Institute of Engineering and Technology
+
 The main purpose of the work presented is to apply the concepts of deep learning algorithm namely, Convolutional Neural Network ( CNN ) in image classification.
 
 The model will be trained to classify the image in 10 different classes (classes represent type of cloth structure).
